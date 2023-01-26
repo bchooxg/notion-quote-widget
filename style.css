@@ -1,0 +1,9 @@
+/* Check if darkmode  */
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: #000;
+  }
+  p{
+    color: #fff;
+  }
+}
